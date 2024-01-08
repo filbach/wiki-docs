@@ -14,6 +14,8 @@ Markdown is a lightweight markup language with plain text formatting syntax. It'
 
 Wiki.js supports the full [CommonMark specification](https://spec.commonmark.org/) + adds some useful extensions (including the Github Flavored Markdown addons).
 
+JamJam
+
 # User Guide
 
 ## Blockquotes
